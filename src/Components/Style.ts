@@ -17,5 +17,6 @@ export const Style = StyleSheet.create({
     borderWidth: 1,
     borderColor: Colors.blue,
     borderRadius: normalize(5),
+    color: Colors.text,
   },
 })
